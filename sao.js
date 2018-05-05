@@ -20,7 +20,8 @@ module.exports = {
   },
 
   move: {
-    'gitignore': '.gitignore'
+    'gitignore': '.gitignore',
+    'template-package.json': 'package.json'
   },
 
   data: {

@@ -13,5 +13,13 @@
     "sao.js",
     "template",
     "boilerplate"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bannerets/template-flowtype.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bannerets/template-flowtype/issues"
+  },
+  "homepage": "https://github.com/Bannerets/template-flowtype#readme"
 }

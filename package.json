@@ -1,6 +1,6 @@
 {
   "name": "template-flowtype",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Template with Babel + Flowtype + ESlint",
   "main": "sao.js",
   "scripts": {
@@ -17,7 +17,6 @@
   "files": [
     "sao.js",
     "template",
-    ".gitignore",
     "README.md"
   ],
   "repository": {

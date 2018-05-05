@@ -1,0 +1,17 @@
+{
+  "name": "template-flowtype",
+  "version": "0.1.0",
+  "description": "Template with Babel + Flowtype + ESlint",
+  "main": "sao.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bannerets",
+  "license": "MIT",
+  "keywords": [
+    "sao",
+    "sao.js",
+    "template",
+    "boilerplate"
+  ]
+}

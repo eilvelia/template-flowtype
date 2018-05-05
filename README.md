@@ -11,7 +11,7 @@
 
 ## Requirements
 
-- [sao.js](sao.js.org)
+- [sao.js](https://sao.js.org)
 
 ## Usage
 

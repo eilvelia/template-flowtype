@@ -16,5 +16,5 @@
 ## Usage
 
 ```console
-$ sao npm:flowtype [directory]
+$ sao flowtype [directory]
 ```

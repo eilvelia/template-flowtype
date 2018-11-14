@@ -4,7 +4,7 @@
 
 ## Features
 
-- Babel (with babel-preset-env)
+- Babel v7 (with babel-preset-env)
 - Flow
 - ESLint (standardjs)
 - MIT License

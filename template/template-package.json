@@ -43,11 +43,11 @@
   },
   "author": "<%- username %> <<%- email %>>",
   "license": "MIT",
+  "keywords": [],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/<%- username %>/<%- projectName %>.git"
   },
-  "keywords": [],
   "bugs": {
     "url": "https://github.com/<%- username %>/<%- projectName %>/issues"
   },

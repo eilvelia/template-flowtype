@@ -1,18 +1,19 @@
 {
   "name": "template-flowtype",
-  "version": "0.3.0",
-  "description": "Template with Babel + Flowtype + ESlint",
+  "version": "0.4.0",
+  "description": "A template with Babel + Flowtype + ESLint",
   "main": "sao.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Bannerets",
+  "author": "bannerets <comonoid@protonmail.com>",
   "license": "MIT",
   "keywords": [
     "sao",
-    "sao.js",
+    "sao-generator",
     "template",
-    "boilerplate"
+    "boilerplate",
+    "flow"
   ],
   "files": [
     "sao.js",
